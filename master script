@@ -30,6 +30,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/artifact-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/artifact-b-/main/artifact%20b%20source", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/artifact-c/main/artifact%20c%20source", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/artifact-d/main/artifact%20d%20source", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/cove-tp/main/cove%20tp", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/watchtower-tp/main/watchtower%20tp", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/hangar-tp/main/hangar%20tp", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/lotus-tp/main/lotus%20tp", true))()
 
 tb.MouseButton1Click:connect(function()
     local facilitypos = Vector3.new(-1779.853,-193.281,-1421.907)
