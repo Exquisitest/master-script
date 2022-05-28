@@ -34,6 +34,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/cove-tp/m
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/watchtower-tp/main/watchtower%20tp", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/hangar-tp/main/hangar%20tp", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/lotus-tp/main/lotus%20tp", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-spawn/main/PRE/El%20spawn", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-2/main/PRCEL%20spawn%202", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-3/main/PRC-EL%203", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-4/main/PRC%20EL%204", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-5/main/PRC%20EL%205", true))()
 
 tb.MouseButton1Click:connect(function()
     local facilitypos = Vector3.new(-1779.853,-193.281,-1421.907)
