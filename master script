@@ -39,7 +39,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-2/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-3/main/PRC-EL%203", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-4/main/PRC%20EL%204", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/PRC-EL-5/main/PRC%20EL%205", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exquisitest/hide/main/hide%20button", true))()
 
 tb.MouseButton1Click:connect(function()
     local facilitypos = Vector3.new(-1779.853,-193.281,-1421.907)
